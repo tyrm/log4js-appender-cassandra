@@ -1,0 +1,22 @@
+{
+  "name": "log4js-appender-cassandra",
+  "version": "0.1.0",
+  "description": "Append to Cassandra Table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://tyr@tyr.haus/git/scm/nodejs/log4js-appender-cassandra.git"
+  },
+  "keywords": [
+    "Vesta"
+  ],
+  "author": "Wolfy Meier",
+  "license": "MIT",
+  "dependencies": {
+    "cassandra-driver": "^2.0.1",
+    "uuid": "^2.0.1"
+  }
+}
