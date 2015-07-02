@@ -8,12 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://tyr@tyr.haus/git/scm/nodejs/log4js-appender-cassandra.git"
+    "url": "https://github.com/wlfyit/log4js-appender-cassandra.git"
   },
-  "keywords": [
-    "Vesta"
-  ],
-  "author": "Wolfy Meier",
+  "homepage": "https://github.com/wlfyit/log4js-appender-cassandra",
+  "bugs": {
+    "url": "https://github.com/wlfyit/log4js-appender-cassandra/issues"
+  },
+  "author": {
+    "name": "Wolfy Meier",
+    "email": "wolfy@wlfy.it"
+  },
   "license": "MIT",
   "dependencies": {
     "cassandra-driver": "^2.0.1",
